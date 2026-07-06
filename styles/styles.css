@@ -1,0 +1,23 @@
+nav ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
+nav ul a{
+    text-decoration: none;
+}
+nav ul li :hover {
+ background-color: aqua;
+
+}
+nav ul li{
+    margin-right: 10px ;
+    padding: 5px;
+}
+.login{
+    background-color: rgb(110, 145, 173);
+    margin: 5%;
+}
+.white{
+    background-color: aliceblue;
+}
